@@ -282,7 +282,7 @@ LSTM_output.gif
 
 The system retrieves the satellite image according to the entered coordinates and date.
 
-![Input Map](outputs/Input_map.jpg)
+![Input Map](Outputs/Input_map.jpg)
 
 ---
 
@@ -290,7 +290,7 @@ The system retrieves the satellite image according to the entered coordinates an
 
 The system visualizes predicted fire locations on the map.
 
-![Fire Pattern Prediction](outputs/Fire_Pattern_Predicted.png)
+![Fire Pattern Prediction](Outputs/Fire_Pattern_Predicted.png)
 
 ---
 
@@ -298,7 +298,7 @@ The system visualizes predicted fire locations on the map.
 
 The fire-spread simulation generates future fire points based on the implemented environmental parameters.
 
-![Future Fire Spread](outputs/Future_Fire_Spread.jpg)
+![Future Fire Spread](Outputs/Future_Fire_Spread.jpg)
 
 ---
 

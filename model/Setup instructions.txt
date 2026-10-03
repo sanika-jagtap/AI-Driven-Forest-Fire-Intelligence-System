@@ -1,0 +1,23 @@
+Python Version 3.12.12
+
+Install these libraries first 
+
+pip install pillow
+pip install svm
+pip install tensorflow
+pip install keras
+pip install matplotlib
+pip install opencv-python
+
+
+ Run this command now
+
+pip install -r D:\Capstone Project\WILD_FIRE_4.0\model\requirements.txt
+
+Then install following libraries
+
+pip install ultralytics
+pip install scikit-learn
+pip install plot_keras_history
+pip install openpyxl
+

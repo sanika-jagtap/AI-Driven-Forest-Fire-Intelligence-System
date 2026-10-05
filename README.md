@@ -322,6 +322,12 @@ LSTM_output.gif
 
 ---
 
+## 6. UI
+
+![UI](Outputs/UI.jpeg)
+
+---
+
 # 📁 Project Structure
 
 ```text

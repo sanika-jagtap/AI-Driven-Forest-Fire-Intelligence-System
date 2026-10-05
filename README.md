@@ -322,9 +322,9 @@ LSTM_output.gif
 
 ---
 
-## 6. UI
+## 6. GUI
 
-![UI](Outputs/UI.jpeg)
+![GUI](Outputs/UI.jpeg)
 
 ---
 
